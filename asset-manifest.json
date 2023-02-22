@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/OmarZen/Omar-Zenhom.git/static/css/main.e05cdeba.css",
-    "main.js": "/OmarZen/Omar-Zenhom.git/static/js/main.1d48d87b.js",
-    "static/media/CV_Software_Omar_Waleed.pdf": "/OmarZen/Omar-Zenhom.git/static/media/CV_Software_Omar_Waleed.4c8e22889f52ec83bbd9.pdf",
-    "static/media/CV_Design_Omar_Waleed.pdf": "/OmarZen/Omar-Zenhom.git/static/media/CV_Design_Omar_Waleed.7ace6bb16fd3f7ce80bd.pdf",
-    "static/media/IMG_20220928_135256.png": "/OmarZen/Omar-Zenhom.git/static/media/IMG_20220928_135256.8c524b3aed9886c4b514.png",
-    "static/media/preview.png": "/OmarZen/Omar-Zenhom.git/static/media/preview.e8667d6d20e44fcb6649.png",
-    "static/media/Screenshot 2023-02-18 183910.png": "/OmarZen/Omar-Zenhom.git/static/media/Screenshot 2023-02-18 183910.ac8874188057ce20ec8d.png",
-    "static/media/preview (1).png": "/OmarZen/Omar-Zenhom.git/static/media/preview (1).15b215e715fc0bce346f.png",
-    "static/media/328852805_410137727992391__n.jpg": "/OmarZen/Omar-Zenhom.git/static/media/328852805_410137727992391_1213822303648592685_n.cc1e9f5d14437de8c4ae.jpg",
-    "static/media/photo_2023-02-18_12-16-25.jpg": "/OmarZen/Omar-Zenhom.git/static/media/photo_2023-02-18_12-16-25.b439fac2413769db2148.jpg",
-    "static/media/309638157___n.jpg": "/OmarZen/Omar-Zenhom.git/static/media/309638157_1155358431721673_2162220686121132591_n.c6189896e7e2562f9082.jpg",
-    "static/media/Copy of male influencer costa youtube thumbnail - Made with PosterMyWall (2).jpg": "/OmarZen/Omar-Zenhom.git/static/media/Copy of male influencer costa youtube thumbnail - Made with PosterMyWall (2).2b0379c96eb4d958c2f3.jpg",
-    "static/media/Screenshot 2023-02-18 191407.jpg": "/OmarZen/Omar-Zenhom.git/static/media/Screenshot 2023-02-18 191407.a46e6c6c84ccb8081c34.jpg",
-    "static/media/1620566044046.jpeg": "/OmarZen/Omar-Zenhom.git/static/media/1620566044046.31e6540bad68d7a99fe1.jpeg",
-    "index.html": "/OmarZen/Omar-Zenhom.git/index.html",
-    "main.e05cdeba.css.map": "/OmarZen/Omar-Zenhom.git/static/css/main.e05cdeba.css.map",
-    "main.1d48d87b.js.map": "/OmarZen/Omar-Zenhom.git/static/js/main.1d48d87b.js.map"
+    "main.css": "./static/css/main.e05cdeba.css",
+    "main.js": "./static/js/main.1a1febc2.js",
+    "static/media/CV_Software_Omar_Waleed.pdf": "./static/media/CV_Software_Omar_Waleed.4c8e22889f52ec83bbd9.pdf",
+    "static/media/CV_Design_Omar_Waleed.pdf": "./static/media/CV_Design_Omar_Waleed.7ace6bb16fd3f7ce80bd.pdf",
+    "static/media/IMG_20220928_135256.png": "./static/media/IMG_20220928_135256.8c524b3aed9886c4b514.png",
+    "static/media/preview.png": "./static/media/preview.e8667d6d20e44fcb6649.png",
+    "static/media/Screenshot 2023-02-18 183910.png": "./static/media/Screenshot 2023-02-18 183910.ac8874188057ce20ec8d.png",
+    "static/media/preview (1).png": "./static/media/preview (1).15b215e715fc0bce346f.png",
+    "static/media/328852805_410137727992391__n.jpg": "./static/media/328852805_410137727992391_1213822303648592685_n.cc1e9f5d14437de8c4ae.jpg",
+    "static/media/photo_2023-02-18_12-16-25.jpg": "./static/media/photo_2023-02-18_12-16-25.b439fac2413769db2148.jpg",
+    "static/media/309638157___n.jpg": "./static/media/309638157_1155358431721673_2162220686121132591_n.c6189896e7e2562f9082.jpg",
+    "static/media/Copy of male influencer costa youtube thumbnail - Made with PosterMyWall (2).jpg": "./static/media/Copy of male influencer costa youtube thumbnail - Made with PosterMyWall (2).2b0379c96eb4d958c2f3.jpg",
+    "static/media/Screenshot 2023-02-18 191407.jpg": "./static/media/Screenshot 2023-02-18 191407.a46e6c6c84ccb8081c34.jpg",
+    "static/media/1620566044046.jpeg": "./static/media/1620566044046.31e6540bad68d7a99fe1.jpeg",
+    "index.html": "./index.html",
+    "main.e05cdeba.css.map": "./static/css/main.e05cdeba.css.map",
+    "main.1a1febc2.js.map": "./static/js/main.1a1febc2.js.map"
   },
   "entrypoints": [
     "static/css/main.e05cdeba.css",
-    "static/js/main.1d48d87b.js"
+    "static/js/main.1a1febc2.js"
   ]
 }
