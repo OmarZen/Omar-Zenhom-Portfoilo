@@ -1,7 +1,9 @@
 {
   "files": {
     "main.css": "./static/css/main.6b655bd0.css",
-    "main.js": "./static/js/main.1a1febc2.js",
+    "main.js": "./static/js/main.0db24941.js",
+    "static/media/1.jpg": "./static/media/1.51b1739d196af9be0894.jpg",
+    "static/media/319502120_119967084268874__n.jpg": "./static/media/319502120_119967084268874_5785687291578593152_n.35b61871766d372079a9.jpg",
     "static/media/CV_Software_Omar_Waleed.pdf": "./static/media/CV_Software_Omar_Waleed.4c8e22889f52ec83bbd9.pdf",
     "static/media/CV_Design_Omar_Waleed.pdf": "./static/media/CV_Design_Omar_Waleed.7ace6bb16fd3f7ce80bd.pdf",
     "static/media/IMG_20220928_135256.png": "./static/media/IMG_20220928_135256.8c524b3aed9886c4b514.png",
@@ -9,6 +11,7 @@
     "static/media/Screenshot 2023-02-18 183910.png": "./static/media/Screenshot 2023-02-18 183910.ac8874188057ce20ec8d.png",
     "static/media/preview (1).png": "./static/media/preview (1).15b215e715fc0bce346f.png",
     "static/media/328852805_410137727992391__n.jpg": "./static/media/328852805_410137727992391_1213822303648592685_n.cc1e9f5d14437de8c4ae.jpg",
+    "static/media/Screenshot 2023-02-22 193737.jpg": "./static/media/Screenshot 2023-02-22 193737.773b367b5b49e10b816f.jpg",
     "static/media/photo_2023-02-18_12-16-25.jpg": "./static/media/photo_2023-02-18_12-16-25.b439fac2413769db2148.jpg",
     "static/media/309638157___n.jpg": "./static/media/309638157_1155358431721673_2162220686121132591_n.c6189896e7e2562f9082.jpg",
     "static/media/Copy of male influencer costa youtube thumbnail - Made with PosterMyWall (2).jpg": "./static/media/Copy of male influencer costa youtube thumbnail - Made with PosterMyWall (2).2b0379c96eb4d958c2f3.jpg",
@@ -16,10 +19,10 @@
     "static/media/1620566044046.jpeg": "./static/media/1620566044046.31e6540bad68d7a99fe1.jpeg",
     "index.html": "./index.html",
     "main.6b655bd0.css.map": "./static/css/main.6b655bd0.css.map",
-    "main.1a1febc2.js.map": "./static/js/main.1a1febc2.js.map"
+    "main.0db24941.js.map": "./static/js/main.0db24941.js.map"
   },
   "entrypoints": [
     "static/css/main.6b655bd0.css",
-    "static/js/main.1a1febc2.js"
+    "static/js/main.0db24941.js"
   ]
 }
