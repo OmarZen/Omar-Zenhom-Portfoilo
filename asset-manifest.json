@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.6b655bd0.css",
-    "main.js": "./static/js/main.0db24941.js",
+    "main.js": "./static/js/main.3ce9396a.js",
     "static/media/1.jpg": "./static/media/1.51b1739d196af9be0894.jpg",
     "static/media/319502120_119967084268874__n.jpg": "./static/media/319502120_119967084268874_5785687291578593152_n.35b61871766d372079a9.jpg",
     "static/media/CV_Software_Omar_Waleed.pdf": "./static/media/CV_Software_Omar_Waleed.4c8e22889f52ec83bbd9.pdf",
@@ -19,10 +19,10 @@
     "static/media/1620566044046.jpeg": "./static/media/1620566044046.31e6540bad68d7a99fe1.jpeg",
     "index.html": "./index.html",
     "main.6b655bd0.css.map": "./static/css/main.6b655bd0.css.map",
-    "main.0db24941.js.map": "./static/js/main.0db24941.js.map"
+    "main.3ce9396a.js.map": "./static/js/main.3ce9396a.js.map"
   },
   "entrypoints": [
     "static/css/main.6b655bd0.css",
-    "static/js/main.0db24941.js"
+    "static/js/main.3ce9396a.js"
   ]
 }
