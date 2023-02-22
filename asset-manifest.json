@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.e05cdeba.css",
+    "main.css": "./static/css/main.6b655bd0.css",
     "main.js": "./static/js/main.1a1febc2.js",
     "static/media/CV_Software_Omar_Waleed.pdf": "./static/media/CV_Software_Omar_Waleed.4c8e22889f52ec83bbd9.pdf",
     "static/media/CV_Design_Omar_Waleed.pdf": "./static/media/CV_Design_Omar_Waleed.7ace6bb16fd3f7ce80bd.pdf",
@@ -15,11 +15,11 @@
     "static/media/Screenshot 2023-02-18 191407.jpg": "./static/media/Screenshot 2023-02-18 191407.a46e6c6c84ccb8081c34.jpg",
     "static/media/1620566044046.jpeg": "./static/media/1620566044046.31e6540bad68d7a99fe1.jpeg",
     "index.html": "./index.html",
-    "main.e05cdeba.css.map": "./static/css/main.e05cdeba.css.map",
+    "main.6b655bd0.css.map": "./static/css/main.6b655bd0.css.map",
     "main.1a1febc2.js.map": "./static/js/main.1a1febc2.js.map"
   },
   "entrypoints": [
-    "static/css/main.e05cdeba.css",
+    "static/css/main.6b655bd0.css",
     "static/js/main.1a1febc2.js"
   ]
 }
